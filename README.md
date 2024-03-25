@@ -2,4 +2,4 @@
   
 2) Data Dashboard contained the interactive user interface. To access the dashboard, first run the Illustration_dataframe.ipynb, then run main.py
 
-3) To get a better sense of what we did, there is a slide with introduction.
+3) To get a better sense of what we did, there is a slide as introduction.
